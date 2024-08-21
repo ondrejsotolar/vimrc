@@ -4,7 +4,7 @@
 
 This configuration is the my vimrc (or at least my version of it).
 
-* **The Basic**: just copy [basic.vim](https://github.com/ondrejsotolar/vimrc/blob/master/vimrc/.vimrc) into your ~/.vimrc and you will have a good basic setup
+* **The Basic**: Install vundle, copy [.vimrc](https://github.com/ondrejsotolar/vimrc/blob/master/vimrc/.vimrc) into your ~/ and run :PluginInstall from within vim.
 
 ## How to install?
 TODO
